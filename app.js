@@ -18,7 +18,7 @@ var express     = require("express"),
 // app.use(methodOverride("_method"));
 // app.use(flash());
 
-// SCHEMAS
+// SCHEMA
 /* var spotSchema = new mongoose.Schema({
     name: String,
     image: String,
